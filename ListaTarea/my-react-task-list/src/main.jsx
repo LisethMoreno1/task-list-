@@ -25,7 +25,7 @@ root.render(
       </div>
 
       <div>
-        <Task button="Clear All" pendientes="You Have 2 Pending tasks" />
+        <Task button="Clear All" pendientes="You Have 2 Pending tasks"/>
       </div>
     </div>
   </>
