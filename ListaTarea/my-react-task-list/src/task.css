@@ -1,0 +1,15 @@
+.boton-personalizado-3 {
+
+ 
+  color: #ffffff;
+  background-color: #f1171e;
+  border-color: none;
+  border-style: none;
+  display: column;
+  justify-content: flex-end;
+  outline: none;
+  margin: 30px auto;
+  padding: 5px;
+
+  
+}
